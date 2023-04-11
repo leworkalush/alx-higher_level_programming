@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """This module defines a JSON file-reading function"""
 import json
